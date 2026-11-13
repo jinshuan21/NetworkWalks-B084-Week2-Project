@@ -1,4 +1,5 @@
-# Network Walks Internship Week 2 Assignment: Footprinting with Kali Linux and Zenmap
+# NetworkWalks-B084-Week2-Project
+Network Walks Internship Week 2 Assignment: Footprinting with Kali Linux and Zenmap
 
 This repository is documentation of my attempt at the Week 2 laboratory work as presented by NetworkWalks for the batch B084 Cybersecurity internship. In this project, I managed to successfully conduct footprinting and reconnaissance using various Kali Linux tools, along with ZenMap. 
 
